@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "firebase": "2.2.x",
-    "react": "0.13.x"
+    "react": "16.13.x"
   },
   "devDependencies": {
     "chai": "^3.0.0",
